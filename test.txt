@@ -1,3 +1,0 @@
-This is the first file to commit in Github
-testing
-hellos
